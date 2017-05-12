@@ -1,3 +1,9 @@
+/*
+	*	NPR Sketch Scene based on Lighting Intensity
+	*	Zhe Zeng
+	*	Feb. 2017 @Purdue
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
